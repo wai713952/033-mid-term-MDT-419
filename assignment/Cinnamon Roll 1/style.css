@@ -1,0 +1,82 @@
+/*content*/
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-size: 32px;
+}
+
+/*header*/
+h2{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: yellowgreen;
+
+    background-color: rgb(30, 114, 72);
+    width: auto;
+    border: 15px solid rgb(35, 143, 35);
+    padding: 25px;
+    margin: auto;
+}
+
+/*recipe header*/
+h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: coral;
+    font-size: 45px;
+
+    background-color: rgb(163, 238, 201);
+    width: auto;
+    border: 15px solid rgb(21, 63, 21);
+    border-top-right-radius: 50%;
+    padding: 25px;
+    margin: auto;
+}
+
+.center_side{
+    text-align: center;
+}
+
+.left_side{
+    text-align: left;
+}
+
+.food_pic{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 15px;
+    border: 15px solid chocolate;
+    border-radius: 100%;
+    width: 500px;
+    height: 500px;
+}
+
+.top_space{
+    margin-top: 50px;
+}
+
+.top_space_extended{
+    margin-top: 20%;
+}
+
+.top_space_extended_as_fuck{
+    margin-top: 75%;
+}
+
+.bottom_space{
+    margin-bottom: 50px;
+}
+
+.ingredient_pic{
+    display: flex;
+    float: left;
+
+    border: 10px solid chocolate;
+}
+
+.ingredient_text{
+    margin-left: 800px;
+}

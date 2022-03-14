@@ -1,0 +1,24 @@
+body{
+    color: chocolate;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    flex: auto;
+    background-color: lightblue;
+}
+input{
+    color: chocolate;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-top: 1%;
+    flex: auto;
+    background-color: aquamarine;
+}
+fieldset{
+    background-color: rgb(224, 255, 255);
+}
+legend{
+    background-color: rgb(95, 167, 167);
+    border: 3px solid rgb(62, 83, 62);
+    color: rgb(255, 235, 213);
+    padding: 0.3%;
+}
